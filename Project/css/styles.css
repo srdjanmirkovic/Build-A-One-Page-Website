@@ -1,0 +1,176 @@
+/*
+ * Author: Hasib Sarvari
+ * URL: http:hackerpal.com
+ *
+ * Build A One Page Website
+ * Version: 1.0
+ *
+ */
+
+
+/* ----  Global
+------------------------- */
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    margin: 0;
+    padding: 0;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+    width: auto;
+}
+
+i {
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 20px;
+}
+
+hr{
+  width: 30%;
+  color: #000;
+}
+/* Box Model */
+
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+h2 {
+    font-size: 43px;
+}
+
+.centered {
+    text-align: center;
+    display: inline-flex;
+}
+
+img {
+    border-radius: 50%;
+}
+
+
+/* ----  Header
+------------------------- */
+
+header {
+    height: 600px;
+    background-color: #000;
+}
+
+header > h1 {
+    text-align: center;
+    color: #fff;
+    font-size: 64px;
+    margin: 0;
+    padding-top: 200px;
+}
+
+header p {
+    text-align: center;
+    color: #fff;
+    font-size: 32px;
+}
+
+#top {
+    background: url(../img/cameron-kirby-85439.jpg) no-repeat fixed;
+    background-size: cover;
+    width: auto;
+}
+
+/* ----  About
+------------------------- */
+
+.about {
+    height: 500px;
+    padding: 80px 150px;
+    background-color: #f8f8f8;
+}
+.about > hr{
+  width: 220px;
+  margin-left: 100px;
+  color: #000;
+}
+
+.profile-img {
+    float: left;
+    margin-right: 40px;
+}
+
+button {
+    float: right;
+    width: auto;
+    height: auto;
+    padding: 20px;
+    font-size: 22px;
+    background: lightblue;
+    color: #fff;
+    border: none;
+    margin-top: 20px;
+}
+
+
+/* ----  Skills
+------------------------- */
+
+.skills {
+    height: 600px;
+    text-align: center;
+    background-color: #fff;
+    padding: 60px 150px;
+}
+
+.col1,
+.col2,
+.col3 {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 20px;
+}
+
+
+/* ----  Follow
+------------------------- */
+
+.follow {
+    height: 350px;
+    padding: 40px 150px;
+    text-align: center;
+    background-color: #f8f8f8;
+}
+
+.follow > h3 {
+    text-align: center;
+}
+
+
+/* ----  Footer
+------------------------- */
+
+footer {
+    height: auto;
+    ;
+    background-color: #000;
+    color: #fff;
+}
+
+footer > p {
+    text-align: center;
+    margin: auto;
+    position: relative;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
