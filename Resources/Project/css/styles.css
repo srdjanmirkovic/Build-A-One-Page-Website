@@ -3,7 +3,7 @@
  * URL: http:hackerpal.com
  *
  * Build A One Page Website
- * Version: 1.0
+ * Version: 1.0.1
  *
  */
 
@@ -37,8 +37,9 @@ hr{
   width: 30%;
   color: #000;
 }
-/* Box Model */
 
+
+/* Box Model */
 html {
     box-sizing: border-box;
 }
@@ -162,7 +163,6 @@ button {
 
 footer {
     height: auto;
-    ;
     background-color: #000;
     color: #fff;
 }
