@@ -1,14 +1,14 @@
 /*
  * Author: Hasib Sarvari
- * URL: http:hackerpal.com
+ * URL: http:hackerpals.com
  *
- * Build A One Page Website
- * Version: 1.0.1
+ * Learn To Code Website
+ * Version: 1.1.0
  *
  */
 
 
-/* ----  Global
+/* ----  Global Styles
 ------------------------- */
 
 body {
@@ -37,9 +37,8 @@ hr{
   width: 30%;
   color: #000;
 }
-
-
 /* Box Model */
+
 html {
     box-sizing: border-box;
 }
@@ -163,6 +162,7 @@ button {
 
 footer {
     height: auto;
+    ;
     background-color: #000;
     color: #fff;
 }
