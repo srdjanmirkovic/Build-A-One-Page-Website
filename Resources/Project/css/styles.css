@@ -3,10 +3,9 @@
  * URL: http:hackerpals.com
  *
  * Learn To Code Website
- * Version: 1.1.0
+ * Version: 1.1.2
  *
  */
-
 
 /* ----  Global Styles
 ------------------------- */
@@ -61,7 +60,6 @@ h2 {
 img {
     border-radius: 50%;
 }
-
 
 /* ----  Header
 ------------------------- */
@@ -121,7 +119,6 @@ button {
     border: none;
     margin-top: 20px;
 }
-
 
 /* ----  Skills
 ------------------------- */
