@@ -97,6 +97,7 @@ header p {
     padding: 80px 150px;
     background-color: #f8f8f8;
 }
+/* Child Combinator */
 .about > hr{
   width: 220px;
   margin-left: 100px;
