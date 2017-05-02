@@ -1,5 +1,4 @@
-# Hacker Pals
-## Build A One Page Website Using HTML5 & CSS3
+## Hacker Pals -- Build A One Page Website Using HTML5 & CSS3
 
 Workshop run by Hasib Sarvari for Hacker Pals
 
@@ -10,6 +9,8 @@ All workshop resources will be in the resources folder. Final website will in th
 * Please make sure you are using a Chrome or Firefox
 
 * Recommended code editors are [Sublime](https://www.sublimetext.com/) or [atom](https://atom.io/)
+
+* Main learning files are in Resources folder > project. 
 
 This is in a series of workshops that will be connected throughout the year.
 
